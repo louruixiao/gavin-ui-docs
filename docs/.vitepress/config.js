@@ -2,6 +2,7 @@ module.exports = {
 	lang: 'zh-CN',
 	title: 'Gavin UI',
 	description: '',
+	base: '/gavin-ui-docs/',
 	themeConfig: {
 		repo: 'vuejs/vitepress',
 		docsDir: 'docs',
@@ -18,9 +19,6 @@ module.exports = {
 			custom: 'CKYD62QM',
 			placement: 'vuejsorg'
 		},
-
-		docsDir: 'docs',
-
 		nav: [
 			{ text: 'Guide', link: '/guide/' },
 			{
