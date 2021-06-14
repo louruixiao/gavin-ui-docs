@@ -1,0 +1,6 @@
+# Invalid
+node_modules
+webfonts
+fonts
+dist
+tsconfig.json

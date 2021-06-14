@@ -1,0 +1,23 @@
+{
+  "name": "gavin-ui-docs",
+  "version": "1.0.0",
+  "description": "Gavin 组件文档",
+  "main": "index.js",
+  "author": "Gavin Lou",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.14.1",
+    "@typescript-eslint/eslint-plugin": "^4.26.1",
+    "@typescript-eslint/parser": "^4.26.1",
+    "eslint": "^7.28.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.11.0",
+    "prettier": "^2.3.1"
+  }
+}
