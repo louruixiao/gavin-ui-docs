@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.066dd63e.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"examples/button.md","lastUpdated":1623655319488}',a={};a.render=function(r,a,o,d,n,p){return t(),e("div")};export default a;export{r as __pageData};
