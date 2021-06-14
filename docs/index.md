@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/logo.jpg
 heroText: Gavin UI Lib
-tagline: Vue 前端组件库 dd
+tagline: Vue 前端组件库
 actionText: 起步 →
 actionLink: /guide/start
 features:
